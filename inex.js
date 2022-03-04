@@ -1,2 +1,2 @@
-var s = "1212";
+var s = "121";
 console.log(s)
